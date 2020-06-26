@@ -2,16 +2,16 @@ package qa.com.printnumbers;
 
 public class PrintNumbers {
 
-	public static void main(String[] args) {
-		
-		//printNumbersTen();
-		//printNumbersHun();
-		//printWordsUnits();
-		//printWordsTeens();
-		//printWordsTens();
-		printWordsHundreds();
-
-	}
+//	public static void main(String[] args) {
+//		
+//		//printNumbersTen();
+//		//printNumbersHun();
+//		//printWordsUnits();
+//		//printWordsTeens();
+//		//printWordsTens();
+//		printWordsHundreds();
+//
+//	}
 	
 	static void printNumbersTen() {
 		for (int i=2; i<10; i++) {

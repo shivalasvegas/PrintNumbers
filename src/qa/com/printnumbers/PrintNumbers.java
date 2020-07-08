@@ -1,5 +1,7 @@
 package qa.com.printnumbers;
 
+// Original class with main and methods in one class
+
 public class PrintNumbers {
 
 //	public static void main(String[] args) {
